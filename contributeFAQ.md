@@ -12,5 +12,5 @@ Para implementar un cambio en la aplicación se deberá de crear un branch y rea
 A continuación se encuentran los correos donde puedes comunicarte con el equipo responsable del proyecto:
 
 christian.soto4752@alumnos.udg.mx  
-charliantonio_39@hotmail.com  
+carlos.ortega4352@alumnos.udg.mx  
 luis.ruiz7447@alumnos.udg.mx
